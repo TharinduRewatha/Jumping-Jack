@@ -59,6 +59,8 @@
     <Compile Include="Assets\_0_Custom\scripts\player\playercontroller.cs" />
     <Compile Include="Assets\_0_Custom\scripts\player\generalmanager.cs" />
     <Compile Include="Assets\_0_Custom\scripts\scenemanager.cs" />
+    <Compile Include="Assets\_0_Custom\scripts\player\playerControllerNonPhysics.cs" />
+    <Compile Include="Assets\_0_Custom\scripts\menu.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
